@@ -10,6 +10,7 @@ import Counter from './components/UseStateExample'
 import CardDisplay from './components/Props'
 import FetchData from './components/FetchData'
 import LogIn from './pages/LogIn'
+import Counter2 from './components/counter2'
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Route  path="/home" element={<Home/>}></Route>
       <Route path="/todolist" element={<TodoList></TodoList>}></Route>
       <Route path="/counter" element={<Counter></Counter>}></Route>
+      <Route path="/counter2" element={<Counter2></Counter2>}></Route>
       <Route path="/card" element={<CardDisplay></CardDisplay>}></Route>
       <Route path="/FetchData" element={<FetchData></FetchData>}></Route>
       

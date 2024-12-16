@@ -15,6 +15,7 @@ function Home() {
       <h1>{user.name} NavBar</h1>
       <Link to="/todolist">Todo List</Link><br />   
       <Link to="/counter">Counter</Link><br />
+      <Link to="/counter2">Zustand Counter</Link><br />
       <Link to="/card">Card</Link><br />
       <Link to="/FetchData">FetchData</Link><br />
       <Link to="/dashboard">Dashboard</Link><br />

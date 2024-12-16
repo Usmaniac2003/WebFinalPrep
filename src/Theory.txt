@@ -25,15 +25,20 @@ Conditional Rendering -Done
 #JS ARRAY #
 MAP() -Done
 
-Router
+Router - Done
+
+useContext 
+createContext
+useContext
+Provider 
 
 
+Choti APPs=Props
 
-kAL kA tARGET
-1) useEffect  -Done
-2) Router     -Done
-3) useContext and Zustand
-4) Class Components
+Mid Level -Context 
+
+Bari -Zustand/Redux
+
 
 
 
