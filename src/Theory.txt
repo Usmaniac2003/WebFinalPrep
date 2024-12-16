@@ -1,0 +1,42 @@
+###SYLLABUS###
+
+##Components ##
+functional Components -Done
+Class Components 
+
+
+##Hooks##
+useState              -Done
+useEffect             -Done
+useContext            -Done
+
+
+##Events##
+onClick -Done
+onChange -Done
+onSubmit -Done 
+onmouseenter -Done
+onmouseleave -Done
+
+Props(Both Syntax) -Done
+
+Conditional Rendering -Done
+
+#JS ARRAY #
+MAP() -Done
+
+Router
+
+
+
+kAL kA tARGET
+1) useEffect  -Done
+2) Router     -Done
+3) useContext and Zustand
+4) Class Components
+
+
+
+
+
+
